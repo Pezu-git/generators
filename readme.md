@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/nx0bxroe0w6ety83?svg=true)](https://ci.appveyor.com/project/Pezu-git/iterators)
+[![Build status](https://ci.appveyor.com/api/projects/status/8ut9xfh9o68sukrl?svg=true)](https://ci.appveyor.com/project/Pezu-git/generators)
